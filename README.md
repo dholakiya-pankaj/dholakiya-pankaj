@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Medium, and Open source projects.
 - 💬 Ask me about Android app development.
 - 📫 How to reach me: pankajdholakiya6@gmail.com
-- ⚡ Fun fact: I always preffered a silent place to write a code with wearing earphone 😆.
+- ⚡ Fun fact: I always preffered a silent place to write a code with wearing earphone.😆
 
 <!--
 **dholakiya-pankaj/dholakiya-pankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
